@@ -1,0 +1,10 @@
+﻿{
+  "Name": "SMap",
+  "Author": "Rona",
+  "Version": "1.0.0",
+  "Description": "Minimap for Stardew Valley",
+  "UniqueID": "Rona.SMap",
+  "EntryDll": "SMap.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
